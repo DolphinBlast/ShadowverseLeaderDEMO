@@ -1,0 +1,9 @@
+com.DefaultCompany.ShadowVerseSpineViewer.launcher-pngs-0 C:\Unity\shfix\launcher\build\generated\res\pngs\debug
+com.DefaultCompany.ShadowVerseSpineViewer.launcher-resValues-1 C:\Unity\shfix\launcher\build\generated\res\resValues\debug
+com.DefaultCompany.ShadowVerseSpineViewer.launcher-rs-2 C:\Unity\shfix\launcher\build\generated\res\rs\debug
+com.DefaultCompany.ShadowVerseSpineViewer.launcher-mergeDebugResources-3 C:\Unity\shfix\launcher\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.DefaultCompany.ShadowVerseSpineViewer.launcher-mergeDebugResources-4 C:\Unity\shfix\launcher\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.DefaultCompany.ShadowVerseSpineViewer.launcher-merged_res-5 C:\Unity\shfix\launcher\build\intermediates\merged_res\debug
+com.DefaultCompany.ShadowVerseSpineViewer.launcher-debug-6 C:\Unity\shfix\launcher\src\debug\res
+com.DefaultCompany.ShadowVerseSpineViewer.launcher-main-7 C:\Unity\shfix\launcher\src\main\res
+com.DefaultCompany.ShadowVerseSpineViewer.launcher-packaged_res-8 C:\Unity\shfix\unityLibrary\build\intermediates\packaged_res\debug
